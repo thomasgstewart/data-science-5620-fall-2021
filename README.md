@@ -21,7 +21,7 @@ PhD Biostatistics Candidate
 <i class="fas fa-envelope"></i> megan.c.hollister@vanderbilt.edu  
 <i class="fab fa-github-square"></i> murraymegan
 
-[Shiyao Li](https://www.vanderbilt.edu/datascience/person/soyeon-park/)  
+[Soyeon Park](https://www.vanderbilt.edu/datascience/person/soyeon-park/)  
 MS Data Science Candidate  
 <i class="fas fa-envelope"></i> soyeon.park@vanderbilt.edu  
 <i class="fab fa-github-square"></i> soyeon-park1121
