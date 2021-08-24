@@ -1,0 +1,58 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p.view {
+visibility: hidden;
+}
+
+footer {
+visibility: hidden;
+}
+
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      background-color: #f8f8f8;
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 6px; 
+      vertical-align: top;}
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+margin-bottom: 0; }
+
+
+td.blue {
+  background-color: #4646fc20;
+}
+
+td.green {
+  background-color: #28A80020;
+}
+
+td.yellow {
+  background-color: #ffff3b20;
+}
+
+td.orange {
+  background-color: #ff943b30;
+}
+
+

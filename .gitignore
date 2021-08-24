@@ -1,0 +1,7 @@
+*.R
+*.rmd
+*.Rhistory
+*.Rmd
+*.pptm
+/exam
+/to-be-posted
