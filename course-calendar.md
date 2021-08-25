@@ -28,6 +28,7 @@ The final exam will occur between 13 December 2021 and 18 December 2021.  Studen
 | Topic | Slides | Textbook sections | Videos |
 |---|:---:|:---:|---|
 | Class logistics | | | |
+| **Definitions of Probability** | [slides](https://biostatdata.app.vumc.org/tgs/01-probability-definition-slides.html)  | | |
 | **Simulation & Operating Characteristics** | <a class = 'callink' href ='https://biostatdata.app.vumc.org/tgs/01-simulation-slides.html'>slides</a><br>[review](https://biostatdata.app.vumc.org/tgs/02-simulation-review-slides.html) | 2 |  |
 | **Basic Probability Ideas** | [slides](https://biostatdata.app.vumc.org/tgs/03-probability-basics-slides.html) <br> [slides part 2](https://biostatdata.app.vumc.org/tgs/04-probability-basics-part2-slides.html) | 1 |  |
 |  → Belief vs Frequency  | | | |
