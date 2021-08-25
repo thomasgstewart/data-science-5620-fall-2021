@@ -3,7 +3,7 @@
 ## Grading
 
 ### Deliverables 
-There are **10** project deliverables and a final exam.  Each deliverable will be graded on a pass/fail basis.  Students will have opportunities to resubmit deliverables **within 2 weeks** of initial feedback. 
+There are **10 to 12** project deliverables and a final exam.  Each deliverable will be graded on a pass/fail basis.  Students will have opportunities to resubmit deliverables **within 2 weeks** of initial feedback. 
 
 ### Final exam
 
@@ -12,7 +12,7 @@ The final exam will be a 20-30 minute one-on-one oral exam with the instructor r
 2. Please solve a new question (perhaps closely related to a question in the practice set).
 3. Please explain course topic X.
 
-Students will be graded on both the accuracy of their responses and the clarity with which they explain course concepts and solutions to questions.  The final exam will occur between 7 December 2020 and 12 December 2020.  Students will sign up for oral exam slots in early December.
+Students will be graded on both the accuracy of their responses and the clarity with which they explain course concepts and solutions to questions.  The final exam will occur between 13 December 2021 and 18 December 2021.  Students will sign up for oral exam slots in early December.
 
 ### Final grades
 
