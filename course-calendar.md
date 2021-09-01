@@ -5,17 +5,17 @@
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | <a class = "callink" href = "https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-30 | |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2020/blob/master/deliverables/01-roulette.md'>Roulette</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2020/blob/master/deliverables/02-monte-carlo-error.md'>Monte Carlo Error</a> | | |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2020/blob/master/deliverables/03-probability-calcs.md'>World Series</a> |  | |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2020/blob/master/deliverables/04-world-series-home-field.md'>Home Field Advantage</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/05-log-transformation.md'>Log Transformation</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/06-order-statistics.md'>Order Statistics</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/07-mle-mm.md'>MLE ane MM</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/08-coverage-probability.md'>Coverage Probability</a> |  |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/09-method-comparison.md'>Methods not equally good</a> |  |  |
-|<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/10-clt.md'>Central Limit Theorem Shortcut</a>|  |  |
-|<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2020/blob/master/deliverables/11-mvn.md'>Correlation and Inference</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/01-roulette.md'>Roulette</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02-monte-carlo-error.md'>Monte Carlo Error</a> | | |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/03-probability-calcs.md'>World Series</a> |  | |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/04-world-series-home-field.md'>Home Field Advantage</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/05-log-transformation.md'>Log Transformation</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/06-order-statistics.md'>Order Statistics</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/07-mle-mm.md'>MLE ane MM</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/08-coverage-probability.md'>Coverage Probability</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/09-method-comparison.md'>Methods not equally good</a> |  |  |
+|<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/10-clt.md'>Central Limit Theorem Shortcut</a>|  |  |
+|<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/11-mvn.md'>Correlation and Inference</a> |  |  |
 
 ## Final Exam
 
