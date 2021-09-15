@@ -39,9 +39,9 @@ PhD Biostatistics Candidate
  Monday and Wednesday @ 9am GMT-5
 
 **Office Hours:** 
-1. Monday @ 2:30pm GMT-5 - Sony 2071
-2. Tuesday @ 9:30am GMT-5 - Sony 2071
-3. Wednesday @ 3pm GMT-5 - Online, link to be posted in Slack
+1. Monday @ 10:15am GMT-5 - Sony 2071
+2. Tuesday @ 9:30am GMT-5 - Sony 2020
+3. Wednesday @ 3pm GMT-5 - Online, link posted in Slack
 4. Friday @ 11am GMT-5 - Sony 2071
 
 ## Textbooks <i class="fas fa-book"></i>
