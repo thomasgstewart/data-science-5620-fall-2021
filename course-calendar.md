@@ -7,6 +7,7 @@
 | <a class = "callink" href = "https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-30 | |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/01-roulette.md'>Roulette</a> | 2021-09-06  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02-monte-carlo-error.md'>Monte Carlo Error</a> | 2021-09-13 | |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02b-interview-question.md'>Interview Question</a> | 2021-09-20| |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/03-probability-calcs.md'>World Series</a> |  | |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/04-world-series-home-field.md'>Home Field Advantage</a> |  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/05-log-transformation.md'>Log Transformation</a> |  |  |
@@ -35,7 +36,7 @@ The final exam will occur between 13 December 2021 and 18 December 2021.  Studen
 |  → Notebook / data.frame definition  | | | |
 |  → And, Or  | | 1.3 | |
 |  → Conditional Probability | | 1.3 | |
-|  → Law of Total Probability | [slides](./lectures/04-probability-bayes-rule.pdf) |
+|  → Law of Total Probability | [slides](./lectures/04-probability-bayes-rule.pdf) <br> [slides part 2](./lectures/04-more-bayes.pdf)|
 |  → Bayes Rule | [slides](./lectures/04-probability-bayes-rule.pdf) <br> [slides part 2](./lectures/04-more-bayes.pdf) | 1.9 |  |
 | **Discrete Probability Models** | | 3, 4, 5 | |
 | → Bernouli Random Variables | [slides](https://biostatdata.app.vumc.org/tgs/05-binomial-prob.html) | |  |
