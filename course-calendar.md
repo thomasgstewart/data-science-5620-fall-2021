@@ -4,8 +4,8 @@
 
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
-| <a class = "callink" href = "https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-30 | |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/01-roulette.md'>Roulette</a> | 2021-09-06  |  |
+| <a class = "callink" href = "https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-30 | NA |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/01-roulette.md'>Roulette</a> | 2021-09-06  | 2021-09-24 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02-monte-carlo-error.md'>Monte Carlo Error</a> | 2021-09-13 | |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02b-interview-question.md'>Interview Question</a> | 2021-09-20| |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/03-probability-calcs.md'>World Series</a> |  | |
