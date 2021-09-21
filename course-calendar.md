@@ -8,7 +8,8 @@
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/01-roulette.md'>01 Roulette</a> | 2021-09-06  | 2021-09-24 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02-monte-carlo-error.md'>02 Monte Carlo Error</a> | 2021-09-13 | 2021-10-04 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/02b-interview-question.md'>02b Interview Question</a> | 2021-09-20| |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/03-probability-calcs.md'>03 World Series</a> |  | |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/03-probability-calcs.md'>03 World Series</a> | 2021-09-27 | |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/EC1-birthday-problem.md'>Extra credit: Birthday Problem</a> | 2021-09-27  | Not available |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/04-world-series-home-field.md'>04 Home Field Advantage</a> |  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/05-log-transformation.md'>05 Log Transformation</a> |  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/06-order-statistics.md'>06 Order Statistics</a> |  |  |
