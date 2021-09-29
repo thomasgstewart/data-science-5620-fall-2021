@@ -1,5 +1,4 @@
-If home field advantage exists, how much of an impact does it have on winning the world series?
-===============================================================================================
+# If home field advantage exists, how much of an impact does it have on winning the world series?
 
 The **home field advantage** is the edge which a team may have when
 playing a game at its home stadium. For example, it is the edge the
@@ -13,8 +12,7 @@ assignment, you are going to use simulation and analytic methods to
 compare the probability of winning the World Series with and without
 home field advantage.
 
-Assignment
-----------
+## Assignment
 
 In this assignment, you will write a blog post to answer a series of
 questions related to the World Series. You will use simulation and
@@ -35,8 +33,8 @@ Setup:
 
 | Overall advantage | Game 1 | Game 2 | Game 3 | Game 4 | Game 5 | Game 6 | Game 7 |
 |:-----------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|       Braves      |   ATL  |   ATL  |   NYC  |   NYC  |   NYC  |   ATL  |   ATL  |
-|      Yankees      |   NYC  |   NYC  |   ATL  |   ATL  |   ATL  |   NYC  |   NYC  |
+|      Braves       |  ATL   |  ATL   |  NYC   |  NYC   |  NYC   |  ATL   |  ATL   |
+|      Yankees      |  NYC   |  NYC   |  ATL   |  ATL   |  ATL   |  NYC   |  NYC   |
 
 -   Let *P*<sub>*B*</sub> be the probability that the Braves win a
     single head-to-head match-up with the Yankees, under the assumption
@@ -47,7 +45,7 @@ Setup:
     the probability that the Braves win a single head-to-head match-up
     with the away team (A for away).
 
-| Game location |    No advantage   | Advantage                                                            |
+| Game location |   No advantage    | Advantage                                                            |
 |:-------------:|:-----------------:|:---------------------------------------------------------------------|
 |      ATL      | *P*<sub>*B*</sub> | *P*<sub>*B*</sub><sup>*H*</sup> = *P*<sub>*B*</sub> \* 1.1           |
 |      NYC      | *P*<sub>*B*</sub> | *P*<sub>*B*</sub><sup>*A*</sup> = 1 − (1 − *P*<sub>*B*</sub>) \* 1.1 |
@@ -58,10 +56,10 @@ Questions to answer:
     series when the sequence of game locations is {NYC, NYC, ATL, ATL,
     ATL, NYC, NYC}. (The code below computes the probability for the
     alternative sequence of game locations. **Note:** The code uses
-    `data.table` syntax, which may be new to you. This is intential, as
-    a gentle way to introduce `data.table`.) Calculate the probability
-    with and without home field advantage when *P*<sub>*B*</sub> = 0.55.
-    What is the difference in probabilities?
+    `data.table` syntax, which may be new to you. This is intentional,
+    as a gentle way to introduce `data.table`.) Calculate the
+    probability with and without home field advantage when
+    *P*<sub>*B*</sub> = 0.55. What is the difference in probabilities?
 
 2.  Calculate the same probabilities as the previous question by
     simulation.
@@ -69,14 +67,15 @@ Questions to answer:
 3.  What is the absolute and relative error for your simulation in the
     previous question?
 
-4.  **Bonus.** Does the difference in probabilites (with vs without home
-    field advantage) depend on *P*<sub>*B*</sub>?
+4.  Does the difference in probabilities (with vs without home field
+    advantage) depend on *P*<sub>*B*</sub>? (Generate a plot to answer
+    this question.)
 
-5.  **Bonus.** Does the difference in probabilites (with vs without home
-    field advantage) depend on the advantage factor? (The advantage
-    factor in *P*<sub>*B*</sub><sup>*H*</sup> and
-    *P*<sub>*B*</sub><sup>*A*</sup> is the 1.1 multiplier that results
-    in a 10% increase for the home team.)
+5.  Does the difference in probabilities (with vs without home field
+    advantage) depend on the advantage factor? (The advantage factor in
+    *P*<sub>*B*</sub><sup>*H*</sup> and *P*<sub>*B*</sub><sup>*A*</sup>
+    is the 1.1 multiplier that results in a 10% increase for the home
+    team. Generate a plot to answer this question.)
 
 ### Submission instructions
 
