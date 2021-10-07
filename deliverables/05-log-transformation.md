@@ -1,11 +1,9 @@
-Log transform
-=============
+# Log transform
 
 It is common in the analysis of biological data to log transform data
 representing concentrations or data representing dose response.
 
-Assignment
-----------
+## Assignment
 
 In this assignment, you will write a blog post to answer a series of
 questions related to the transformation of data. You will use both
@@ -17,8 +15,7 @@ with your ability to explain the question and the solution in a way that
 is accessible to the data scientist’s lab. **Be sure** to mention any
 assumptions of your solution.
 
-Part 1
-------
+## Part 1
 
 -   For each distribution below, generate a figure of the PDF and CDF.
     Mark the mean and median in the figure.
@@ -52,8 +49,7 @@ Part 1
 
 *X* ∼ UNIFORM(0, 12)
 
-Part 2
-------
+## Part 2 (OPTIONAL)
 
 Show that if *X*<sub>*i*</sub> \> 0 for all *i*, then the arithmetic
 mean is greater than or equal to the geometric mean.
@@ -61,14 +57,12 @@ mean is greater than or equal to the geometric mean.
 Hint: Start with the sample mean of the transformation
 *Y*<sub>*i*</sub> = log (*X*<sub>*i*</sub>).
 
-Part 3
-------
+## Part 3
 
 What is the correct relationship between *E*\[log (*X*)\] and
 log (*E*\[*X*\])? Is one always larger? Equal? Explain your answer.
 
-Submission instructions
------------------------
+## Submission instructions
 
 1.  Within the repo
     `Probability and Inference Portfolio Lastname Firstname`, create a
@@ -83,8 +77,7 @@ Submission instructions
 6.  Be prepared to share your blog post with the class when the
     deliverable is due.
 
-Other instructions
-------------------
+## Other instructions
 
 1.  The deliverable should be your own work. You may **discuss**
     concepts with classmates, but you may **not share** code or text.
