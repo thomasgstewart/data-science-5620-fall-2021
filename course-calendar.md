@@ -19,6 +19,12 @@
 |<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/10-clt.md'>10 Central Limit Theorem Shortcut</a>|  |  |
 |<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/11-mvn.md'>11 Correlation and Inference</a> |  |  |
 
+## Problem Set
+
+| Due Date | Problem |
+|:---:|:---|
+| 2021-10-20 | (a) Generate, via simulation, a plot of the distribution of the 25th percentile of a sample of size 100 when the underlying distribution is gamma with shape = 3 and scale = 12 <br> (b) Overlay on the plot from (a) the analytic solution of the pdf |
+
 ## Final Exam
 
 The final exam will occur between 13 December 2021 and 18 December 2021.  Students will sign up for oral exam slots in early December.
