@@ -12,7 +12,7 @@
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/EC1-birthday-problem.md'>Extra credit: Birthday Problem</a> | 2021-09-27  | Not available |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-Fall-2021/blob/master/deliverables/04-world-series-home-field.md'>04 Home Field Advantage</a> | 2021-10-04 | 2021-10-25 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/05-log-transformation.md'>05 Log Transformation</a> | 2021-10-11 |  |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/06-order-statistics.md'>06 Order Statistics</a> |  |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/06-order-statistics.md'>06 Order Statistics</a> | 2021-10-25 |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/07-mle-mm.md'>07 MLE ane MM</a> |  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/08-coverage-probability.md'>08 Coverage Probability</a> |  |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/09-method-comparison.md'>09 Methods not equally good</a> |  |  |
@@ -24,6 +24,7 @@
 | Due Date | Problem |
 |:---:|:---|
 | 2021-10-20 | (a) Generate, via simulation, a plot of the distribution of the 25th percentile of a sample of size 100 when the underlying distribution is gamma with shape = 3 and scale = 12 <br> (b) Overlay on the plot from (a) the analytic solution of the pdf |
+| 2021-10-27 | (a) Read chapter 3. <br> (b) Complete problem 4 of Section 3.12 <br> (c) Complete problem 8 of Section 3.12 |
 
 ## Final Exam
 
