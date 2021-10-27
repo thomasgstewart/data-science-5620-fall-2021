@@ -25,6 +25,10 @@ Final grades will be assigned as follows.
 | C | C on the final exam & successful completion of all 10 deliverables |
 | F | Otherwise |
 
+### UPDATE (2021-10-15)
+
+On days when deliverables are not due, there will be an in-class quiz.  Based on the scores on the quiz, final grades will adjusted by a partial letter grade.  Exceptional performance on quizzes will bump-up your final grade: an A will become an A+, B to B+, and C to C+.  Poor performance on quizzes will result in a bump-down of your final grade: A to A-, B to B-, and C to C-.
+
 ## Adjustments
 
 The instructor may alter the course content and grading policies during the semester.
