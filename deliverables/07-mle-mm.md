@@ -25,8 +25,8 @@ hoping to learn about these commonly used tools. Your tutorial should
     -   QQ plot (sample vs estimated dist)
 3.  Explain how you calculated the median from the estimated
     distribution
-4.  Demonstrate how to generate the median sampling distribution
-5.  Calculated the range of middle 95% of sampling distribution, and
+4.  [SKIP] Demonstrate how to generate the median sampling distribution
+5.  [SKIP] Calculated the range of middle 95% of sampling distribution, and
     explain why such a quantity is important.
 
 At the end of your tutorial, provide the reader with a set of “take-home
@@ -57,8 +57,8 @@ Do for both MLE and MM
 | Overlay estimated CDF onto eCDF      |        |       |         |
 | QQ plot (sample vs estimated dist)   |        |       |         |
 | Estimated Median                     |        |       |         |
-| Median Samp Dist (hist)              |        |       |         |
-| Range of middle 95% of Samp Dist     |        |       |         |
+| [SKIP] Median Samp Dist (hist)              |        |       |         |
+| [SKIP] Range of middle 95% of Samp Dist     |        |       |         |
 
 Submission instructions
 -----------------------
