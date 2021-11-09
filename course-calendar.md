@@ -28,6 +28,7 @@
 | 2021-10-27 | (a) Read chapter 3. <br> (b) Complete problem 4 of Section 3.12 <br> (c) Complete problem 8 of Section 3.12 |
 | 2021-11-01 | (a) Read chapter 7. <br> (b) Read chapter 8. <br> (c) Replicate figure 8.5 by following the example in section 8.4.2 <br> You can get the pima dataset by installing the `faraway` package and the command `data(pima)` <br> (d) Generate the same plot as Figure 8.5 for adult males using the NHANES dataset. <br> Recall you can use the command `Hmisc::getHdata(nhgh)` to retrieve the data. <br> (e) Replicate figure 8.6 by following the example in section 8.4.4 <br> You can use the following commands to retrieve the bike dataset from the UCI repository <br> <code>temp <- tempfile() <br> download.file("https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip",temp) <br>con <- unz(temp, "day.csv") <br> bike <- read.table(con, sep=",", header = TRUE) <br> unlink(temp) </code> |
 | 2021-11-03 | (a) Do exercise 7 of section 8.10, overlay the estimated pdf on the histogram <br> (b) Add to the plot in (a) a kernel density estimate of the pdf <br> Recall, the dataset is in the faraway package.  Missing values are coded as zero. |
+| 2021-11-10 | (a) Review the slides at https://biostatdata.app.vumc.org/tgs/13-bootstrap.html <br> (b) Replicate the figure on slide 32.  (The code is provided in slides 30 and 31.  Copy and paste.) |
 
 ## Final Exam
 
