@@ -30,6 +30,7 @@
 | 2021-11-03 | (a) Do exercise 7 of section 8.10, overlay the estimated pdf on the histogram <br> (b) Add to the plot in (a) a kernel density estimate of the pdf <br> Recall, the dataset is in the faraway package.  Missing values are coded as zero. |
 | 2021-11-10 | (a) Review the slides at https://biostatdata.app.vumc.org/tgs/13-bootstrap.html <br> (b) Replicate the figure on slide 32.  (The code is provided in slides 30 and 31.  Copy and paste.) |
 | 2021-11-15 | (a) Read chapter 9 <br> (b) Complete questions 1, 2, 3, 6, 7 in section 9.13 |
+| 2021-11-17 | (a) Read https://biostatdata.app.vumc.org/tgs/18-parallel-processing.html <br> (b) Read https://biostatdata.app.vumc.org/tgs/20-batch-processing-accre.html |
 
 ## Final Exam
 
