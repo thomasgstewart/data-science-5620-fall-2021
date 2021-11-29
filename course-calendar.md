@@ -14,7 +14,7 @@
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/05-log-transformation.md'>05 Log Transformation</a> | 2021-10-11 | 2021-11-03 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/06-order-statistics.md'>06 Order Statistics</a> | 2021-10-25 | 2021-11-17 |
 | Take a break / Get caught up | 2021-11-01 | Not available |
-| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/07-mle-mm.md'>07 MLE ane MM</a> | 2021-11-08 |  |
+| <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/07-mle-mm.md'>07 MLE ane MM</a> | 2021-11-08 | 2021-12-09 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/08-coverage-probability.md'>08 Coverage Probability</a> | 2021-11-29 |  |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/09-method-comparison.md'>09 Methods not equally good</a> |  |  |
 |<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/10-clt.md'>10 Central Limit Theorem Shortcut</a>|  |  |
