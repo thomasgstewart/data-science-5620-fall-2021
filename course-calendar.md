@@ -33,6 +33,14 @@
 | 2021-11-15 | (a) Read chapter 9 <br> (b) Complete questions 1, 2, 3, 6, 7 in section 9.13 |
 | 2021-11-17 | (a) Read https://biostatdata.app.vumc.org/tgs/18-parallel-processing.html <br> (b) Read https://biostatdata.app.vumc.org/tgs/20-batch-processing-accre.html |
 
+## MURAL Whiteboards
+
+| Date |
+|:---|
+| [2021-11-10](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1636555608291/392478dea3c1404ed415993de11a73738b6f6805?sender=uf7d0a570de7c4c9a36665532) |
+| [2021-11-15](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1636989406577/47068632eb497f99423e82e37c27a5a29c137c91?sender=uf7d0a570de7c4c9a36665532) |
+| [2021-11-17](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1637161429322/0efdb18710484cc80f9d9931325fb79ed26ea36d?sender=uf7d0a570de7c4c9a36665532) |
+
 ## Final Exam
 
 The final exam will occur between 13 December 2021 and 18 December 2021.  Students will sign up for oral exam slots in early December.
