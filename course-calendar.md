@@ -16,7 +16,6 @@
 | Take a break / Get caught up | 2021-11-01 | Not available |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/07-mle-mm.md'>07 MLE ane MM</a> | 2021-11-08 | 2021-12-09 |
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/08-coverage-probability.md'>08 Coverage Probability</a> | 2021-11-29 | 2021-12-16 at 9am |
-| Choose one of the following | ?? | ??|
 | <a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/09-method-comparison.md'>09 Methods not equally good</a> |  |   |
 |<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/10-clt.md'>10 Central Limit Theorem Shortcut</a>|  |  |
 |<a class = 'callink' href ='https://github.com/thomasgstewart/data-science-5620-fall-2021/blob/master/deliverables/11-mvn.md'>11 Correlation and Inference</a> |  |  |
@@ -40,6 +39,7 @@
 | [2021-11-10](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1636555608291/392478dea3c1404ed415993de11a73738b6f6805?sender=uf7d0a570de7c4c9a36665532) |
 | [2021-11-15](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1636989406577/47068632eb497f99423e82e37c27a5a29c137c91?sender=uf7d0a570de7c4c9a36665532) |
 | [2021-11-17](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1637161429322/0efdb18710484cc80f9d9931325fb79ed26ea36d?sender=uf7d0a570de7c4c9a36665532) |
+| [2021-12-08 (practice problems)](https://app.mural.co/t/blocherdatascience2235/m/blocherdatascience2235/1638975385480/b8bb90ff35ac8364db484bf101a6766a946c26eb?sender=uf7d0a570de7c4c9a36665532) |
 
 ## Final Exam
 
